@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos gerados pelo processamento
+Resultados.txt
+Graficos/
+
+# Configurações de IDE/editor
+.spyproject/
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
