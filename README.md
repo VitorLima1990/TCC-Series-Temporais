@@ -101,5 +101,5 @@ O arquivo CSV é mantido no repositório para permitir a reprodução do process
 
 ## Autor
 
-**Vitor Lima**  
+**Vitor Rocha de Almeida Rego Lima**  
 MBA Data Science & Analytics – USP/ESALQ
