@@ -1,6 +1,7 @@
 # Estudo de séries temporais aplicado a dados meteorológicos da estação A433 – Brumado
 
 Código-fonte desenvolvido para o Trabalho de Conclusão de Curso (TCC) do MBA Data Science & Analytics USP/ESALQ.
+[![DOI](https://zenodo.org/badge/1388044465.svg)](https://doi.org/10.5281/zenodo.22970121)
 
 O projeto utiliza dados meteorológicos da estação automática **A433 – Brumado**, do Instituto Nacional de Meteorologia (INMET), para caracterizar séries temporais de temperatura e radiação solar e avaliar modelos de previsão. A partir das condições meteorológicas diárias também é calculada a capacidade de condução de corrente de um condutor de referência.
 
